@@ -5,7 +5,7 @@ const Navbar = () => {
 	return (
 		<nav>
 			<Link to="/" className="pl-8">
-				Wedding Video Ireland
+				Wedding Video Ireland NEW
 			</Link>
 			<div className="px-4 cursor-pointer md:hidden">
 				<svg
