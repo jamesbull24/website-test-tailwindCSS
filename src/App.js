@@ -5,7 +5,6 @@ import { Switch, Route } from 'react-router-dom';
 import About from './pages/about';
 import Menu from './pages/menu';
 import Dropdown from './components/Dropdown';
-// for dropdown
 import React, { useState, useEffect } from 'react';
 
 function App() {
